@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | C++ | Django | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;C%2B%2B+%7C+Python+Developer;Learning+Django+REST+Framework;Machine+Learning+Enthusiast;Future+Google+Software+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;C%2B%2B+%7C+Python+Developer;Learning+Django+REST+Framework;Machine+Learning+Enthusiast;Software+Engineer+%F0%9F%9A%80" />
 </p>
 
 ---
