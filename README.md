@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (Data Science) Student
 - 🌱 Currently learning **Data Structures & Algorithms, Django REST Framework, and Machine Learning**
 - 💡 Passionate about solving real-world problems through technology
-- 🎯 Goal: Become a Software Engineer at Google
+- 🎯 Goal: Become a Software Engineer 
 - 📚 Improving every day through coding and projects
 
 ---
