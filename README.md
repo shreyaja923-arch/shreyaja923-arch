@@ -91,7 +91,8 @@ A full-stack Django application for managing paper products, quotations, custome
 * Personal portfolio built using Django
 * Responsive design with reusable templates
 
-💻 GitHub: *(Add repository link here)*
+💻 GitHub: 
+**Live Demo** : https://portfolio-nu-self-32.vercel.app/
 
 ---
 
