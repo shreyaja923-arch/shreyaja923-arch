@@ -95,15 +95,6 @@ A full-stack Django application for managing paper products, quotations, custome
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaja923-arch&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaja923-arch&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
